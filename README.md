@@ -1,0 +1,2 @@
+# globe
+ini bumi
